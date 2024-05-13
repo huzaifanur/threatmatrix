@@ -1,4 +1,4 @@
-package main
+package consts
 
 var Utf8Languages = []string{"ar", "fa", "ja", "ko", "ru", "zh", "vi", "he"}
 var IsoLanguages = []string{

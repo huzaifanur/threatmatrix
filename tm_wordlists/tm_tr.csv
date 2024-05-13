@@ -1,0 +1,328 @@
+Category,Subcategory,Local term,English translation,Simple category
+Ableist,Learning disability,geri zekal?,retard,Ableism
+Ableist,Learning disability,mankafal?,purblind,Ableism
+Ableist,Learning disability,salak,idiot,Ableism
+Ableist,Learning disability,aptal,stupid,Ableism
+Ableist,Learning disability,mankafa,purblind,Ableism
+Ableist,Learning disability,andaval,numskull,Ableism
+Ableist,Genetic disability,spastik,spastic,Ableism
+Ableist,Genetic disability,özürlü,lamer,Ableism
+Ableist,Genetic disability,özür,defect,Ableism
+Ableist,Genetic disability,engelli,disabled,Ableism
+Ableist,Genetic disability,kolsuz,limbless,Ableism
+Ableist,Genetic disability,bacaks?z,legless,Ableism
+Ableist,Genetic disability,ahmak,idiot,Ableism
+Ableist,Genetic disability,enayi,sucker,Ableism
+Ableist,Genetic disability,ibi?,idiot,Ableism
+Dogwhistle,Immigration,göçmen,immigrant,Dogwhistle
+Dogwhistle,Immigration,macur,immigrant,Dogwhistle
+Dogwhistle,Immigration,muhacir,immigrant,Dogwhistle
+Dogwhistle,Terrorism,terörist,terrorist,Dogwhistle
+Dogwhistle,Terrorism,terör,terror,Dogwhistle
+Dogwhistle,Terrorism,fetö,fethullah terrorist organization,Dogwhistle
+Dogwhistle,Terrorism,fetöcü,fetö member,Dogwhistle
+Dogwhistle,Terrorism,pkk,pkk,Dogwhistle
+Dogwhistle,Terrorism,pkkl?,pkk member,Dogwhistle
+Dogwhistle,Terrorism,??id,isis,Dogwhistle
+Dogwhistle,Terrorism,??idli,isis member,Dogwhistle
+Dogwhistle,Terrorism,dhkp-c,dhkp-c,Dogwhistle
+Dogwhistle,Terrorism,dea?,isis,Dogwhistle
+Dogwhistle,Terrorism,bölücü,separationist,Dogwhistle
+Dogwhistle,Terrorism,örgüt,organization,Dogwhistle
+Dogwhistle,Terrorism,yap?lanma,structuring,Dogwhistle
+Dogwhistle,Terrorism,terörizm,terrorism,Dogwhistle
+Dogwhistle,Crime,suçlu,guilty,Dogwhistle
+Dogwhistle,Crime,suç,crime,Dogwhistle
+Dogwhistle,Crime,mafya,mafia,Dogwhistle
+Dogwhistle,Crime,haydut,bandit,Dogwhistle
+Dogwhistle,Crime,katil,killer,Dogwhistle
+Dogwhistle,Crime,cani,villain,Dogwhistle
+Dogwhistle,Crime,e?k?ya,bandit,Dogwhistle
+Dogwhistle,Crime,haydutluk,banditry,Dogwhistle
+Dogwhistle,Crime,e?kiyal?k,banditry,Dogwhistle
+Dogwhistle,Crime,katillik,thuggery,Dogwhistle
+Dogwhistle,Crime,sab?kal?,criminal,Dogwhistle
+Dogwhistle,Crime,cezal?,criminal,Dogwhistle
+Dogwhistle,Crime,cani,villain,Dogwhistle
+Dogwhistle,Crime,canice,criminal-like,Dogwhistle
+Dogwhistle,Crime,kriminal,criminal,Dogwhistle
+Dogwhistle,Gangs,eleba??,ringleader,Dogwhistle
+Dogwhistle,Gangs,çete,gang,Dogwhistle
+Dogwhistle,Gangs,çete lideri,ringleader,Dogwhistle
+Dogwhistle,Gangs,?ebeke,crime ring,Dogwhistle
+Dogwhistle,Gangs,çete hayat?,gang life,Dogwhistle
+Dogwhistle,Gangs,fuhu? çetesi,prostitution gang,Dogwhistle
+Dogwhistle,Gangs,çete ba??,gang leader,Dogwhistle
+Dogwhistle,Gangs,hapishane çetesi,prison gang,Dogwhistle
+Dogwhistle,Gangs,çete kavgas?,gang fight,Dogwhistle
+Dogwhistle,Gangs,çetele?mek,gang up,Dogwhistle
+Dogwhistle,Gangs,grup,group,Dogwhistle
+Dogwhistle,Gangs,grupla?mak,group up,Dogwhistle
+Dogwhistle,Gangs,örgüt,organization,Dogwhistle
+Dogwhistle,Gangs,örgütlenmek,organize,Dogwhistle
+Dogwhistle,Gangs,örgütlü,organized,Dogwhistle
+Dogwhistle,Gangs,silahl? çete,armed gang,Dogwhistle
+Dogwhistle,Gangs,silahl? örgüt,armed gang,Dogwhistle
+Dogwhistle,Gangs,suç çetesi,criminal gang,Dogwhistle
+Dogwhistle,Gangs,üye,member,Dogwhistle
+Dogwhistle,Gangs,çete üyesi,gansta,Dogwhistle
+Dogwhistle,Gangs,suç ?ebekesi,crime ring,Dogwhistle
+Family,Geneology,ana,mother,Family
+Family,Geneology,anan?,your mother,Family
+Family,Geneology,anne,mom,Family
+Family,Geneology,anneni,your mom,Family
+Family,Geneology,baba,father,Family
+Family,Geneology,baban?,your father,Family
+Family,Geneology,baban?n,your father's,Family
+Family,Geneology,annenin,your mother's,Family
+Family,Geneology,karde?,brother,Family
+Family,Geneology,karde?ini,your brother,Family
+Family,Geneology,karde?inin,your brother's,Family
+Family,Geneology,k?z karde?,sister,Family
+Family,Geneology,k?z karde?ini,your sister,Family
+Family,Geneology,k?z karde?inin,your sister's,Family
+Family,Geneology,erkek karde?,brother   ,Family
+Family,Geneology,erkek karde?ini,your brother,Family
+Family,Geneology,erkek karde?inin,your brother's,Family
+Family,Geneology,ebe,midwife,Family
+Family,Geneology,ebeni,your midwife,Family
+Family,Geneology,ebenin,your midwife's,Family
+Family,Geneology,akraba evlili?i,inbred,Family
+Family,Geneology,soysuz,degenerated,Family
+Family,Relationships,k?z arkada?,girlfriend,Family
+Family,Relationships,k?z arkada??n?,your girlfriend,Family
+Family,Relationships,k?z arkada??n?n,your girlfriend's,Family
+Family,Relationships,erkek arkada?,boyfriend,Family
+Family,Relationships,erkek arkada??n?,your boyfriend,Family
+Family,Relationships,erkek arkada??n?n,your boyfriend's,Family
+Family,Relationships,sevgili,lover,Family
+Family,Relationships,sevgilini,your lover,Family
+Family,Relationships,sevgilinin,your lover's,Family
+Family,Marriage,kar?,wife,Family
+Family,Marriage,kar?n?,your wife,Family
+Family,Marriage,kar?n?n,your wife's,Family
+Family,Marriage,koca,husband,Family
+Family,Marriage,kocan?,your husband,Family
+Family,Marriage,kocan?n,your husband's,Family
+Family,Marriage,e?,spouse,Family
+Family,Marriage,e?ini,your spouse,Family
+Family,Marriage,e?inin,your spouse's,Family
+General abuse,General swearing,piç,bastar,General abuse
+General abuse,General swearing,göt,asshole,General abuse
+General abuse,General swearing,bok,shit,General abuse
+General abuse,General swearing,orospu,bitch,General abuse
+General abuse,General swearing,orospu çocu?u,son of a bitch,General abuse
+General abuse,General swearing,budala,fool,General abuse
+General abuse,General swearing,kazma,pickaxe (fool),General abuse
+General abuse,General swearing,dangalak,crass,General abuse
+General abuse,General swearing,göt lalesi,ass tulip (ass hole),General abuse
+General abuse,General swearing,kal?n kafal?,dumb,General abuse
+General abuse,General swearing,denyo,dumb,General abuse
+General abuse,General swearing,odun kafal?,wooden-headed,General abuse
+General abuse,Paedophilia,pedofili,pedophilia,General abuse
+General abuse,Paedophilia,pedo,pedo,General abuse
+General abuse,Paedophilia,sübyan,pedophile,General abuse
+General abuse,Paedophilia,sübyanc?,pedophile,General abuse
+General abuse,Paedophilia,?erefsiz,dishonourable,General abuse
+General abuse,Paedophilia,alçak,mean,General abuse
+General abuse,Paedophilia,a?a??l?k,despicable,General abuse
+General abuse,Paedophilia,a?a??l?k herif,wicked man,General abuse
+General abuse,Paedophilia,sap?k,pervert,General abuse
+General abuse,Paedophilia,adi,vile,General abuse
+General abuse,Dishonesty,kurnaz,sly,General abuse
+General abuse,Dishonesty,tilki,fox,General abuse
+General abuse,Dishonesty,s?çan,rat,General abuse
+General abuse,Dishonesty,y?lan,snake,General abuse
+General abuse,Dishonesty,ispiyon,squeal,General abuse
+General abuse,Dishonesty,ispiyoncu,rat,General abuse
+General abuse,Dishonesty,ispiyonlamak,tell on,General abuse
+General abuse,Dishonesty,hain,traitor,General abuse
+General abuse,Dishonesty,dönek,renegade,General abuse
+General abuse,Dishonesty,alçak,mean,General abuse
+Go back,Go back home,evine dön,go home,Xenophobia
+Go back,Go back home,çölüne dön,return to your desert (anti-arabian),Xenophobia
+Go back,Go back home,yallah,go for it! (anti-arabian),Xenophobia
+Go back,Go back home,siktir,screw you,General abuse
+Go back,Go back home,siktir git,fuck off,General abuse
+Go back,Go back home,cehenneme git,go to hell,General abuse
+Go back,Go back home,cehenneme kadar yolun var,go to hell,General abuse
+Go back,Go back home,defol,get out,General abuse
+Go back,Go back home,defol git,go away,General abuse
+Go back,Go back home,bak ?uradan siktir git,get the fuck out of here,Xenophobia
+Go back,Go back home,yallah arabistana,Go to Arabia! (anti-arabian),Xenophobia
+Go back,Go back home,arabistana git,go to Arabia,Xenophobia
+Go back,Go back home,arabistana dön,return to Arabia,Xenophobia
+Homophobia,Anti-gay,gay,gay,Homophobia
+Homophobia,Anti-gay,gey,gay,Homophobia
+Homophobia,Anti-gay,ibne,fagot,Homophobia
+Homophobia,Anti-gay,nono?,queer,Homophobia
+Homophobia,Anti-gay,e?cinsel,gay,Homophobia
+Homophobia,Anti-gay,homo,homo,Homophobia
+Homophobia,Anti-gay,sap?k,pervert,Homophobia
+Homophobia,Anti-gay,sapk?n,pervert,Homophobia
+Homophobia,Anti-gay,aktif,active,Homophobia
+Homophobia,Anti-gay,pasif,passive,Homophobia
+Homophobia,Anti-gay,kad?ns?,just gay enough,Homophobia
+Homophobia,Anti-gay,efeminen,just gay enough,Homophobia
+Homophobia,Anti-gay,göt,ass,Homophobia
+Homophobia,Anti-gay,götçü,asshole,Homophobia
+Homophobia,Anti-lesbian,lezbiyen,lesbian,Homophobia
+Homophobia,Anti-lesbian,lez,lesbo,Homophobia
+Homophobia,Anti-lesbian,sevici,lover,Homophobia
+Homophobia,Anti-lesbian,erkek fatma,tomboy,Homophobia
+Homophobia,Anti-lesbian,erkeksi,masculine,Homophobia
+Homophobia,Anti-lesbian,lezbiyenler,lesbians,Homophobia
+Homophobia,Anti-lesbian,libo?,lesbo,Homophobia
+Homophobia,Anti-trans,trans,trance,Transphobia
+Homophobia,Anti-trans,trans kad?n,trans woman,Transphobia
+Homophobia,Anti-trans,transseksüel,transgender,Transphobia
+Homophobia,Anti-trans,cinsiyet de?i?tirmi?,transgender,Transphobia
+Intracommunity slurs,Racially-motivated,kara,black,Racism
+Intracommunity slurs,Racially-motivated,sar?,yellow,Racism
+Intracommunity slurs,Racially-motivated,havuç,carrot (redhead),Racism
+Possible slurs,Racial,maymun,monkey,Racism
+Possible slurs,Racial,e?ek,donkey,Racism
+Possible slurs,Racial,e??ek,donkey,Racism
+Possible slurs,Racial,e?ek siken,donkey fucker,Racism
+Possible slurs,Antisemitic,siyonist,zionist,Antisemitism
+Possible slurs,Antisemitic,siyonizm,zonism,Antisemitism
+Possible slurs,Antisemitic,yahudi,jew,Antisemitism
+Possible slurs,Animal-based,maymun,monkey,Racism
+Possible slurs,Animal-based,dana,calf,General abuse
+Possible slurs,Animal-based,e?ek,donkey,General abuse
+Possible slurs,Animal-based,e??ek,donkey,General abuse
+Possible slurs,Animal-based,e??o?lue??ek,donkey,General abuse
+Possible slurs,Animal-based,manda,mandate,General abuse
+Possible slurs,Animal-based,kat?r,mule,General abuse
+Possible slurs,Animal-based,?ebelek,baboon,Racism
+Possible slurs,Animal-based,gebe?,gazob (a kind of sheep),General abuse
+Possible slurs,Animal-based,inek,cow,General abuse
+Possible slurs,Animal-based,çakal,jackal,General abuse
+Possible slurs,Animal-based,tilki,fox,General abuse
+Racial term,Anti-arabism,arap,sand nigger,Racism
+Racial term,Anti-arabism,bedevi,bedouin,Racism
+Racial term,Anti-arabism,çöl faresi,meerkat,General abuse
+Racial term,Anti-kurdish,kürt,kurd,Racism
+Racial term,Anti-kurdish,amk kürdü,fucking kurd,Racism
+Racial term,Islamophobic,müslüman,muslim,Islamophobia
+Racial term,Islamophobic,müslim,muslim,Islamophobia
+Racial term,Islamophobic,islam,Islam,Islamophobia
+Racial term,Islamophobic,din,religion,Islamophobia
+Racial term,Islamophobic,dinci,religious,Islamophobia
+Racial term,Antisemitic,yahudi,jew,Antisemitism
+Racial term,Antisemitic,yahudi tohumu,jewish breed,Antisemitism
+Racial term,Midde Eastern,afgan,Afghan,Xenophobia
+Racial term,Midde Eastern,paki,Paki,Xenophobia
+Racial term,Midde Eastern,pakistanl?,Pakistani,Xenophobia
+Racial term,Midde Eastern,kürt,Kurd,Xenophobia
+Racial term,Midde Eastern,orta do?ulu,middle eastern,Xenophobia
+Racial term,Midde Eastern,suri,Syrian (like Paki),Xenophobia
+Racial term,Midde Eastern,suriyeli,Syrian,Xenophobia
+Racial term,Midde Eastern,suriye,Syria,Xenophobia
+Racial term,Midde Eastern,afganistan,Afghanistan,Xenophobia
+Racial term,Midde Eastern,?rak,Iraq,Xenophobia
+Racial term,Midde Eastern,iran,Iranian,Xenophobia
+Racial term,Midde Eastern,arap,arabic,Xenophobia
+Racial term,Midde Eastern,arabistan,Arabia,Xenophobia
+Racial term,Midde Eastern,medeniyet yoksunu,uncivilized,General abuse
+Sectarianism,Religious denominations,alevi,flame,Sectarianism
+Sectarianism,Religious denominations,sünni,sunni,Sectarianism
+Sectarianism,Religious denominations,bekta?i,gooseberry,Sectarianism
+Sexist,Anti-woman,orospu,bitch,Sexism
+Sexist,Anti-woman,ka?ar,bitch,Sexism
+Sexist,Anti-woman,yollu,loose woman,Sexism
+Sexist,Anti-woman,vurdurmak,get fucked,Sexism
+Sexist,Anti-woman,orospu çocu?u,son of a bitch,Sexism
+Sexist,Anti-woman,sikik,fucked,Sexism
+Sexist,Anti-woman,sikilmi?,fucked,Sexism
+Sexist,Female anatomy,am,pussy,Sexual
+Sexist,Female anatomy,amc?k,cunt,Sexual
+Sexist,Female anatomy,am biti,lice,Sexual
+Sexist,Female anatomy,göt,ass,Sexual
+Sexist,Female anatomy,götçü,asshole,Sexual
+Sexist,Female anatomy,am suyu,pussy juice,Sexual
+Sexual,Female anatomy,am,pussy,Sexual
+Sexual,Female anatomy,göt,ass,Sexual
+Sexual,Female anatomy,meme,boobs,Sexual
+Sexual,Female anatomy,?eftali,peach (vagina),Sexual
+Sexual,Male anatomy,sik,dick,Sexual
+Sexual,Male anatomy,yarrak,cock,Sexual
+Sexual,Male anatomy,yarak,dick,Sexual
+Sexual,Male anatomy,dalga,dick,Sexual
+Sexual,Male anatomy,muz,banana (dick),Sexual
+Sexual,Male anatomy,çavu?,dick,Sexual
+Sexual,Male anatomy,mokar,dick,Sexual
+Sexual,Male anatomy,pipi,penis,Sexual
+Sexual,Male anatomy,penis,penis,Sexual
+Sexual,Male anatomy,sik kafal?,dick-head,Sexual
+Sexual,Sex,sik,fuck,Sexual
+Sexual,Sex,siki?mek,fuck,Sexual
+Sexual,Sex,vurdurmak,get fucked,Sexual
+Sexual,Sex,as?lmak,jacking off,Sexual
+Sexual,Sex,seks yapmak,having sex,Sexual
+Sexual,Sex,bo?al,ejaculate,Sexual
+Sexual,Sex,bo?almak,ejaculate,Sexual
+Sexual,Sex,düzü?mek,fuck,Sexual
+Sexual,Sex,düzü?,fuck,Sexual
+Sexual,Sex,üstünden geçmek,fuck,Sexual
+Sexual,Sex,am?na koymak,fuck in the vagina,Sexual
+Sexual,Sex,meni,cum,Sexual
+Sexual,Sex,sperm,cum,Sexual
+Sexual,Rape,tecavüz,rape,Violence
+Sexual,Rape,tecavüz etmek,rape,Violence
+Sexual,Rape,?rz,chastity,Violence
+Sexual,Rape,?rz?na geçmek,rape,Violence
+Sexual,Rape,taciz,abuse,Violence
+Sexual,Rape,taciz etmek,harass,Violence
+Slurs,Anti-Gypsy Roma Traveller,çingene,gypsy,Anti-GRT
+Slurs,Anti-Gypsy Roma Traveller,çingen,gypsy,Anti-GRT
+Slurs,Anti-Gypsy Roma Traveller,?opar,gypsy,Anti-GRT
+Slurs,Anti-Gypsy Roma Traveller,esmer,dark-skinned,Anti-GRT
+Slurs,Islamophobic,yobaz,uncivilized,Islamophobia
+Special_terms,Football-specific,kanarya,canary (anti-Fenerbahce),Special Terms
+Special_terms,Football-specific,kedicik,kitty (anti-Galatasaray),Special Terms
+Special_terms,Football-specific,kanatl?lar,poultry (anti-Fenerbahce),Special Terms
+Special_terms,Football-specific,renkliler,colorful (anti-Fenerbahce and Galatasaray),Special Terms
+Special_terms,Football-specific,aslanc?k,tiny lion (anti-Galatasaray),Special Terms
+Special_terms,Football-specific,ku?,bird (anti-Fenerbahce),Special Terms
+Special_terms,Football-specific,sekizta?,eight stone (anti-Besiktas),Special Terms
+Special_terms,Football-specific,hamsi,anchovy (anti-Trabzonspor),Special Terms
+Violence,Violent threats,yak,burn,Violence
+Violence,Violent threats,yakmak,burn,Violence
+Violence,Violent threats,saplamak,stab,Violence
+Violence,Violent threats,vurmak,hit,Violence
+Violence,Violent threats,ate? etmek,fire,Violence
+Violence,Violent threats,ate? et,fire,Violence
+Violence,Violent threats,harca,kill,Violence
+Violence,Violent threats,harcamak,to kill,Violence
+Violence,Violent threats,gömmek,bury,Violence
+Violence,Violent threats,mezara gömmek,bury,Violence
+Violence,Violent threats,kafas?n? patlatmak,blow your head off,Violence
+Violence,Violent threats,kafa patlatmak,bang someone's head,Violence
+Violence,Violent threats,yarmak,split,Violence
+Violence,Violent threats,de?mek,dig up,Violence
+Violence,Violent threats,k?rmak,break,Violence
+Violence,Violent threats,kemiklerini k?rmak,break someone's bones,Violence
+Violence,Violent threats,ezmek,crush,Violence
+Violence,Death threats,öl,die,Violence
+Violence,Death threats,öldürmek,kill,Violence
+Violence,Death threats,ölmek,to die,Violence
+Violence,Death threats,asmak,to hang,Violence
+Violence,Death threats,as,hang,Violence
+Violence,Death threats,bo?mak,to choke,Violence
+Violence,Death threats,bo?,choke,Violence
+Violence,Rape,tecavüz,rape,Violence
+Violence,Rape,tecavüz etmek,rape,Violence
+Violence,Rape,?rz?na geçmek,rape,Violence
+Violence,Rape,taciz,abuse,Violence
+Violence,Rape,taciz etmek,abuse,Violence
+Violence,Rape,bekaretini bozmak,deflower,Violence
+Violence,Weaponry,b?çak,knife,Violence
+Violence,Weaponry,halat,rope,Violence
+Violence,Weaponry,çak?,pocketknife,Violence
+Violence,Weaponry,silah,weapon,Violence
+Violence,Weaponry,tabanca,gun,Violence
+Violence,Weaponry,kurus?k?,blank cartridge pistol,Violence
+Violence,Weaponry,kuru s?k?,blank cartridge pistol,Violence
+Violence,Weaponry,haydar,bat,Violence
+Violence,Weaponry,sopa,bat,Violence
