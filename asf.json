@@ -1,101 +1,98 @@
 {
-    "data":{
-       "author_id":"1519138805135011844",
-       "created_at":"2024-05-13T20:59:01.000Z",
-       "edit_history_tweet_ids":[
-          "1790124613176828298"
-       ],
-       "entities":{
-          "mentions":[
-             {
-                "start":3,
-                "end":14,
-                "username":"CollinRugg",
-                "id":"890061634181373952"
-             }
+  "data": {
+    "author_id": "1783242700789067776",
+    "created_at": "2024-05-13T20:58:58Z",
+    "edit_history_tweet_ids": ["1790124601021706634"],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "AltcoinDailyio",
+          "id": "958118843636854784"
+        },
+        {
+          "start": 175,
+          "end": 185,
+          "username": "GME_Erc20",
+          "id": "1786036195056812032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790124601021706634",
+    "in_reply_to_user_id": "958118843636854784",
+    "lang": "en",
+    "referenced_tweets": [
+      { "type": "replied_to", "id": "1790111369687413183" }
+    ],
+    "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
+  },
+  "includes": {
+    "users": [
+      {
+        "description": "",
+        "id": "1783242700789067776",
+        "location": "",
+        "name": "crypto bullish",
+        "username": "CryptoB64586"
+      },
+      {
+        "description": "🎥 Follow our YouTube channel for DAILY news \u0026 opinion videos! Brothers Aaron \u0026 Austin. #Crypto commentators. #Bitcoin, #Ethereum, #NFTs, \u0026 #altcoins! 🚀",
+        "id": "958118843636854784",
+        "location": "Not Financial Advice",
+        "name": "Altcoin Daily",
+        "username": "AltcoinDailyio"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1783242700789067776",
+        "created_at": "2024-05-13T20:58:58Z",
+        "edit_history_tweet_ids": ["1790124601021706634"],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "AltcoinDailyio",
+              "id": "958118843636854784"
+            },
+            {
+              "start": 175,
+              "end": 185,
+              "username": "GME_Erc20",
+              "id": "1786036195056812032"
+            }
           ]
-       },
-       "geo":{
-          
-       },
-       "id":"1790124613176828298",
-       "lang":"en",
-       "referenced_tweets":[
-          {
-             "type":"retweeted",
-             "id":"1790054346409009158"
-          }
-       ],
-       "text":"RT @CollinRugg: NEW: GameStop stock explodes as 'Roaring Kitty' returns to X in his first post since June 18, 2021.\n\nShort sellers have suf…"
-    },
-    "includes":{
-       "users":[
-          {
-             "description":"God, Family, America, Patriot, Trump2024! Football, Trucks, Camping, Stocks",
-             "id":"1519138805135011844",
-             "name":"Marcelo Punches",
-             "username":"CarlosDanger805"
-          },
-          {
-             "description":"Co-Owner of Trending Politics | Investor | American 🇺🇸",
-             "id":"890061634181373952",
-             "location":"United States",
-             "name":"Collin Rugg",
-             "username":"CollinRugg"
-          }
-       ],
-       "tweets":[
-          {
-             "author_id":"1519138805135011844",
-             "created_at":"2024-05-13T20:59:01.000Z",
-             "edit_history_tweet_ids":[
-                "1790124613176828298"
-             ],
-             "entities":{
-                "mentions":[
-                   {
-                      "start":3,
-                      "end":14,
-                      "username":"CollinRugg",
-                      "id":"890061634181373952"
-                   }
-                ]
-             },
-             "geo":{
-                
-             },
-             "id":"1790124613176828298",
-             "lang":"en",
-             "referenced_tweets":[
-                {
-                   "type":"retweeted",
-                   "id":"1790054346409009158"
-                }
-             ],
-             "text":"RT @CollinRugg: NEW: GameStop stock explodes as 'Roaring Kitty' returns to X in his first post since June 18, 2021.\n\nShort sellers have suf…"
-          },
-          {
-             "author_id":"890061634181373952",
-             "created_at":"2024-05-13T16:19:48.000Z",
-             "edit_history_tweet_ids":[
-                "1790054346409009158"
-             ],
-             "entities":{
-                
-             },
-             "geo":{
-                
-             },
-             "id":"1790054346409009158",
-             "lang":"en",
-             "text":"NEW: GameStop stock explodes as 'Roaring Kitty' returns to X in his first post since June 18, 2021.\n\nShort sellers have suffered a mark-to-market loss of ~$1 billion as GME is up over 70% today. (CNBC)\n\n'Roaring Kitty' went viral in 2021 for kickstarting the \"meme stock frenzy\"… https://t.co/MKhk1O8iCy"
-          }
-       ]
-    },
-    "matching_rules":[
-       {
-          "id":"1785264155941072897",
-          "tag":"funny things"
-       }
+        },
+        "geo": {},
+        "id": "1790124601021706634",
+        "in_reply_to_user_id": "958118843636854784",
+        "lang": "en",
+        "referenced_tweets": [
+          { "type": "replied_to", "id": "1790111369687413183" }
+        ],
+        "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
+      },
+      {
+        "author_id": "958118843636854784",
+        "created_at": "2024-05-13T20:06:23Z",
+        "edit_history_tweet_ids": ["1790111369687413183"],
+        "entities": { "mentions": null },
+        "geo": {},
+        "id": "1790111369687413183",
+        "in_reply_to_user_id": "",
+        "lang": "en",
+        "referenced_tweets": [
+          { "type": "quoted", "id": "1790081979939172690" }
+        ],
+        "text": "The $DOT community would never... https://t.co/mr335tlvoW"
+      }
     ]
- }
+  },
+  "matching_rules": [
+    { "id": "1785264155941072897", "tag": "funny things" },
+    { "id": "1785264155941072898", "tag": "" }
+  ]
+}

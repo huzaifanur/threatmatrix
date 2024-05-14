@@ -10,106 +10,113 @@ import (
 )
 
 var s string = `{
-    "data":{
-       "author_id":"1519138805135011844",
-       "created_at":"2024-05-13T20:59:01.000Z",
-       "edit_history_tweet_ids":[
-          "1790124613176828298"
-       ],
-       "entities":{
-          "mentions":[
-             {
-                "start":3,
-                "end":14,
-                "username":"CollinRugg",
-                "id":"890061634181373952"
-             }
+  "data": {
+    "author_id": "1783242700789067776",
+    "created_at": "2024-05-13T20:58:58.000Z",
+    "edit_history_tweet_ids": ["1790124601021706634"],
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "AltcoinDailyio",
+          "id": "958118843636854784"
+        },
+        {
+          "start": 175,
+          "end": 185,
+          "username": "GME_Erc20",
+          "id": "1786036195056812032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790124601021706634",
+    "in_reply_to_user_id": "958118843636854784",
+    "lang": "en",
+    "referenced_tweets": [
+      { "type": "replied_to", "id": "1790111369687413183" }
+    ],
+    "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
+  },
+  "includes": {
+    "users": [
+      {
+        "description": "",
+        "id": "1783242700789067776",
+        "name": "crypto bullish",
+        "username": "CryptoB64586"
+      },
+      {
+        "description": "🎥 Follow our YouTube channel for DAILY news & opinion videos! Brothers Aaron & Austin. #Crypto commentators. #Bitcoin, #Ethereum, #NFTs, & #altcoins! 🚀",
+        "id": "958118843636854784",
+        "location": "Not Financial Advice",
+        "name": "Altcoin Daily",
+        "username": "AltcoinDailyio"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1783242700789067776",
+        "created_at": "2024-05-13T20:58:58.000Z",
+        "edit_history_tweet_ids": ["1790124601021706634"],
+        "entities": {
+          "mentions": [
+            {
+              "start": 0,
+              "end": 15,
+              "username": "AltcoinDailyio",
+              "id": "958118843636854784"
+            },
+            {
+              "start": 175,
+              "end": 185,
+              "username": "GME_Erc20",
+              "id": "1786036195056812032"
+            }
           ]
-       },
-       "geo":{
-          
-       },
-       "id":"1790124613176828298",
-       "lang":"en",
-       "referenced_tweets":[
-          {
-             "type":"retweeted",
-             "id":"1790054346409009158"
-          }
-       ],
-       "text":"RT @CollinRugg: NEW: GameStop stock explodes as 'Roaring Kitty' returns to X in his first nigga nigga nigga post since bastard June 18, 2021.\n\nShort sellers have nigger  nigga suf…"
-    },
-    "includes":{
-       "users":[
-          {
-             "description":"God, Family, America, Patriot, Trump2024! Football, Trucks, Camping, Stocks",
-             "id":"1519138805135011844",
-             "name":"Marcelo Punches",
-             "username":"CarlosDanger805"
-          },
-          {
-             "description":"Co-Owner of Trending Politics | Investor | American 🇺🇸",
-             "id":"890061634181373952",
-             "location":"United States",
-             "name":"Collin Rugg",
-             "username":"CollinRugg"
-          }
-       ],
-       "tweets":[
-          {
-             "author_id":"1519138805135011844",
-             "created_at":"2024-05-13T20:59:01.000Z",
-             "edit_history_tweet_ids":[
-                "1790124613176828298"
-             ],
-             "entities":{
-                "mentions":[
-                   {
-                      "start":3,
-                      "end":14,
-                      "username":"CollinRugg",
-                      "id":"890061634181373952"
-                   }
-                ]
-             },
-             "geo":{
-                
-             },
-             "id":"1790124613176828298",
-             "lang":"en",
-             "referenced_tweets":[
-                {
-                   "type":"retweeted",
-                   "id":"1790054346409009158"
-                }
-             ],
-             "text":"RT @CollinRugg: NEW: GameStop stock explodes as 'Roaring Kitty' returns to X in his first post since June 18, 2021.\n\nShort sellers have suf…"
-          },
-          {
-             "author_id":"890061634181373952",
-             "created_at":"2024-05-13T16:19:48.000Z",
-             "edit_history_tweet_ids":[
-                "1790054346409009158"
-             ],
-             "entities":{
-                
-             },
-             "geo":{
-                
-             },
-             "id":"1790054346409009158",
-             "lang":"en",
-             "text":"NEW: GameStop stock explodes as 'Roaring Kitty' niggers returns to X in his first post since June 18, 2021.\n\nShort sellers have suffered a mark-to-market loss of ~$1 billion as GME is up over 70% today. (CNBC)\n\n'Roaring Kitty' went viral in 2021 for kickstarting the \"meme stock frenzy\"… https://t.co/MKhk1O8iCy"
-          }
-       ]
-    },
-    "matching_rules":[
-       {
-          "id":"1785264155941072897",
-          "tag":"funny things"
-       }
+        },
+        "geo": {},
+        "id": "1790124601021706634",
+        "in_reply_to_user_id": "958118843636854784",
+        "lang": "en",
+        "referenced_tweets": [
+          { "type": "replied_to", "id": "1790111369687413183" }
+        ],
+        "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
+      },
+      {
+        "author_id": "958118843636854784",
+        "created_at": "2024-05-13T20:06:23.000Z",
+        "edit_history_tweet_ids": ["1790111369687413183"],
+        "entities": {},
+        "geo": {},
+        "id": "1790111369687413183",
+        "lang": "en",
+        "referenced_tweets": [
+          { "type": "quoted", "id": "1790081979939172690" }
+        ],
+        "text": "The $DOT community would never... https://t.co/mr335tlvoW"
+      }
     ]
- }`
+  },
+  "errors": [
+    {
+      "parameter": "entities.mentions.username",
+      "resource_id": "GME_Erc20",
+      "value": "GME_Erc20",
+      "detail": "User has been suspended: [GME_Erc20].",
+      "title": "Forbidden",
+      "resource_type": "user",
+      "type": "https://api.twitter.com/2/problems/resource-not-found"
+    }
+  ],
+  "matching_rules": [
+    { "id": "1785264155941072897", "tag": "funny things" },
+    { "id": "1785264155941072898", "tag": "" }
+  ]
+}
+`
 
 func main() {
 
@@ -124,18 +131,34 @@ func main() {
 		return
 	}
 
-	cleanText, cleanErr := clean.NormalizeAndDemojize(twitterData.Data.Text)
+	cleanText, cleanErr := clean.NormalizeAndDemojize(twitterData.Includes.Tweets[0].Text)
 	if cleanErr != nil {
 		fmt.Println("SAS")
 	}
-	// fmt.Printf("%s", cleanText)
+
+	tdata := twitterData.Data
+	authorId := tdata.AuthorID
+	tweetId := tdata.ID
+	createdAt := tdata.CreatedAt
+	inReplyTo := tdata.InReplyToUserID
+	lang := tdata.Lang
+	text := cleanText
+
+	includes := twitterData.Includes
+	name, handleName, description, location := func() (string, string, string, string) {
+		for _, v := range includes.Users {
+			if authorId == v.ID {
+
+				return v.Name, v.Username, v.Description, v.Location
+			}
+		}
+
+		return "", "", "", ""
+	}()
+
 	tokens := TokenizeTweet(cleanText)
 
 	ngrams := generateNGrams(tokens, 10)
-
-	// for i, v := range ngrams {
-	// 	fmt.Println(i, v)
-	// }
 
 	data, err := threatflag.LoadWordlists("en")
 	if err != nil {
@@ -159,7 +182,7 @@ func main() {
 			}
 		}
 	}
-	fmt.Println(categories)
+	// fmt.Println(categories)
 
 	threat := func() int {
 		sum := 0
@@ -169,8 +192,29 @@ func main() {
 		return sum
 	}()
 
-	fmt.Println(threat)
+	jsonBytes, err := json.Marshal(categories)
+	if err != nil {
+		fmt.Println("json.Marshal error:", err)
+		return
+	}
+	jsonString := string(jsonBytes)
 
+	var pub = PublishTweetRecord{
+		TweetID:         tweetId,
+		TweetLink:       "",
+		CreatedAt:       createdAt,
+		Text:            text,
+		InReplyTo:       inReplyTo,
+		Lang:            lang,
+		Location:        location,
+		UserID:          authorId,
+		UserName:        name,
+		HandleName:      handleName,
+		UserDescription: description,
+		Threat:          threat,
+		Categories:      jsonString,
+	}
+	fmt.Println(pub)
 }
 
 // generateNGrams generates n-grams for a given slice of tokens and n value.
