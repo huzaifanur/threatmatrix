@@ -3,7 +3,6 @@ package threatflag
 import (
 	"encoding/csv"
 	"fmt"
-	"io"
 	"os"
 	"path/filepath"
 	"slices"
@@ -11,32 +10,17 @@ import (
 	"threatmatrix/consts"
 )
 
-// func threatFlag(lang string, text string) (s string, p string) {
-// 	//  CHECK IF IN LANGUAGES SUPPORTED
-// 	if !(slices.Contains(consts.IsoLanguages, lang) || slices.Contains(consts.Utf8Languages, lang)) {
-// 		return "", ""
-// 	}
+type cvsMap []map[string]string
 
-// 	// # produce strings of ngrams
-// 	tokenizer := tokenizer.NewTweetTokenizer()
-// 	text_tokens := tokenizer.Tokenize(text)
+type cvsMapList []cvsMap
 
-// 	// # FIND MAX NGRAM SIZE FROM BAD WORD
-// 	max_tokens := 908
-
-// 	for i := 1; i <= max_tokens; i++ {
-
-// 	}
-// 	return
-// }
-
-func LoadWordlists(lang string) ([]map[string][]string, error) {
+func LoadWordlists(lang string) (cvsMapList, error) {
 	fileroot := "tm_wordlists/"
 	if !slices.Contains(consts.SupportedLanguages, lang) {
 		return nil, fmt.Errorf("language not supported")
 	}
 
-	var wordlists []map[string][]string
+	var wordlists cvsMapList
 
 	err := filepath.Walk(fileroot, func(path string, info os.FileInfo, walkErr error) error {
 		if walkErr != nil {
@@ -55,25 +39,26 @@ func LoadWordlists(lang string) ([]map[string][]string, error) {
 				return readErr
 			}
 
-			dataMap := make(map[string][]string)
+			var records cvsMap
 			for {
-				row, readErr := reader.Read()
-				if readErr == io.EOF {
-					break // End of file reached
-				}
-				if readErr != nil {
-					file.Close() // Close the file if row read fails
-					return readErr
+				row, err := reader.Read()
+				if err != nil {
+					break
 				}
 
+				// Create a map for each row
+				rowMap := make(map[string]string)
 				for i, value := range row {
-					columnName := strings.ToLower(header[i])
-					dataMap[columnName] = append(dataMap[columnName], value)
+					rowMap[strings.ToLower(header[i])] = strings.ToLower(value)
 				}
+
+				// Append the map to the slice
+				records = append(records, rowMap)
 			}
+
 			file.Close() // Ensure the file is closed after processing
 
-			wordlists = append(wordlists, dataMap)
+			wordlists = append(wordlists, records)
 		}
 		return nil
 	})
