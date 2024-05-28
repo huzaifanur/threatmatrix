@@ -97,4 +97,5 @@ type PublishTweetRecord struct {
 	UserDescription string    // Description of the user
 	Threat          int       // Threat level
 	Categories      string    // Categories of the tweet
+	Rules           []Rule
 }

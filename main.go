@@ -37,7 +37,7 @@ var s string = `{
     "referenced_tweets": [
       { "type": "replied_to", "id": "1790111369687413183" }
     ],
-    "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
+    "text": "@AltcoinDailyio \"From meme stock to market legend, $GME's story is one for nigga  nigger black monkey the history books! Who else is eagerly awaiting the next chapter? Let's write it together! $GME\" X: @GME_Erc20 https://t.co/bQaL5J82Um"
   },
   "includes": {
     "users": [
@@ -131,7 +131,7 @@ func main() {
 		return
 	}
 
-	cleanText, cleanErr := clean.NormalizeAndDemojize(twitterData.Includes.Tweets[0].Text)
+	cleanText, cleanErr := clean.NormalizeAndDemojize(twitterData.Data.Text)
 	if cleanErr != nil {
 		fmt.Println("SAS")
 	}
@@ -143,6 +143,7 @@ func main() {
 	inReplyTo := tdata.InReplyToUserID
 	lang := tdata.Lang
 	text := cleanText
+	rules := twitterData.Rules
 
 	includes := twitterData.Includes
 	name, handleName, description, location := func() (string, string, string, string) {
@@ -213,8 +214,17 @@ func main() {
 		UserDescription: description,
 		Threat:          threat,
 		Categories:      jsonString,
+		Rules:           rules,
 	}
 	fmt.Println(pub)
+	jsonsData, earr := json.MarshalIndent(pub, "", "  ")
+	if earr != nil {
+		fmt.Println("Error marshaling to JSON:", earr)
+		return
+	}
+
+	// Print the JSON string
+	fmt.Println(string(jsonsData))
 }
 
 // generateNGrams generates n-grams for a given slice of tokens and n value.
